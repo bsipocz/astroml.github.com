@@ -1,0 +1,5 @@
+matplotlib
+numpy
+pymc3
+https://github.com/bsipocz/astroML/archive/regression_with_errors.zip
+arviz
